@@ -1,7 +1,6 @@
 
 ## Table of Contents
 
-- [Contribute](#contribute)
 - [Defensive](#defensive-hardening-security-assessment-and-inventory)
 - [Offensive](#offensive)
 - [Purple Teaming & Adversary Emulation](#purple-teaming--adversary-emulation)
@@ -12,13 +11,6 @@
 - [Training](#training)
 - [Other interesting tools/code](#other-interesting-toolscode)
 
-## Contribute
-Do you want to contribute to this list? Feel free to send a PR and make sure your tool is [Open Source](https://en.wikipedia.org/wiki/Open_source).
-
-
-| Name | Description | Popularity | Metadata |
-| ---------- | :---------- | :----------: | :----------: |
-| **[My Arsenal of AWS Security Tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)** | This list of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.|[![stars](https://badgen.net/github/stars/toniblyx/my-arsenal-of-aws-security-tools)](https://badgen.net/github/stars/toniblyx/my-arsenal-of-aws-security-tools)| [![contributors](https://badgen.net/github/contributors/toniblyx/my-arsenal-of-aws-security-tools)](https://badgen.net/github/contributors/toniblyx/my-arsenal-of-aws-security-tools) [![watchers](https://badgen.net/github/watchers/toniblyx/my-arsenal-of-aws-security-tools)](https://badgen.net/github/watchers/toniblyx/my-arsenal-of-aws-security-tools) [![last-commit](https://badgen.net/github/last-commit/toniblyx/my-arsenal-of-aws-security-tools)](https://badgen.net/github/last-commit/toniblyx/my-arsenal-of-aws-security-tools)  [![open-issues](https://badgen.net/github/open-issues/toniblyx/my-arsenal-of-aws-security-tools)](https://badgen.net/github/open-issues/toniblyx/my-arsenal-of-aws-security-tools) [![closed-issues](https://badgen.net/github/closed-issues/toniblyx/my-arsenal-of-aws-security-tools)](https://badgen.net/github/closed-issues/toniblyx/my-arsenal-of-aws-security-tools) |
 
 ## Defensive: Hardening, Security Assessment and Inventory
 | Name | Description | Popularity | Metadata |
