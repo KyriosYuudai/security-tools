@@ -1,15 +1,15 @@
 
 ## Table of Contents
 
-- [Defensive](#defensive-hardening-security-assessment-and-inventory)
-- [Offensive](#offensive)
-- [Purple Teaming & Adversary Emulation](#purple-teaming--adversary-emulation)
+- [Pro-Active](#defensive-hardening-security-assessment-and-inventory)
+- [Attacking](#offensive)
+- [Purple Teaming](#purple-teaming--adversary-emulation)
 - [Continuous Security Auditing](#continuous-security-auditing)
 - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
 - [Development Security](#development-security)
-- [S3 Buckets Auditing](#s3-buckets-auditing)
+- [S3 Auditing](#s3-buckets-auditing)
 - [Training](#training)
-- [Other interesting tools/code](#other-interesting-toolscode)
+- [Misc](#other-interesting-toolscode)
 
 
 ## Defensive: Hardening, Security Assessment and Inventory
